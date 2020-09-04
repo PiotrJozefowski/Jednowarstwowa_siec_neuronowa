@@ -1,0 +1,9 @@
+Pierwszym produktem firmy był, zaprojektowany przez Steve’a Wozniaka w 1976 Apple I. Był to drugi komputer na rynku sprzedawany jako złożony (pierwszym była Altaira 8800 z 1975)[2].
+
+Sukcesem okazał się opracowany rok później Apple II. Podobnego sukcesu nie odniosły ani dalsze odsłony ani debiutująca w styczniu 1983 Lisa – jeden z pierwszych na świecie komputerów osobistych z GUI oraz myszą, który trafił na rynek. Nowe komputery, mimo swojego zaawansowania technicznego, nie zdobyły wielu nabywców z powodu zbyt wysokiej ceny.[potrzebny przypis]
+
+W 1984 zadebiutował Macintosh – pierwszy masowo sprzedawany komputer z interfejsem graficznym. Pomimo niedociągnięć technicznych odniósł komercyjny sukces. W 1991 Apple wypuścił pierwszą generację PowerBooków, a w 1993 Newtona – pierwowzór późniejszych palmtopów.
+
+Od 2001 komputery Apple sprzedawane są z systemem operacyjnym Mac OS X, opartym na obiektowo zorientowanym systemie operacyjnym NeXTStep, bazującym na mikrojądrze Mach i BSD. Również w 2001 roku wypuszczono do sprzedaży odtwarzacz iPod.
+
+W 2006 roku Apple zrezygnował ze stosowania w swoich produktach procesorów firmy IBM. Nowym dostawcą tych elementów był Intel[3]. W tym samym roku przedstawiono m.in. przygotowany wcześniej system operacyjny OS X przeznaczony dla architektury x86.
